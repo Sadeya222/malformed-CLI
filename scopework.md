@@ -1,3 +1,4 @@
+NOTE THIS TOOLS BUILD JUST EDUCTIONAL AND PERSONAL RECEARCH PORPUPSE. GOAL TO BILD THIS TOOLS TO MAKE DESSENCE SYSTEM. OUR ENSINNER BUILD DEFENCE SYSTEM YOUR TASK BUILD THIS CLI TOOL NOT DEFENCE SYSTEM. READ THE BLOW
 High-Level Overview of the Automated Tool Functions
 A fully automated, end-to-end framework performs five key functions in sequence. It transforms plain application code into a disguised media delivery vector.
 text
